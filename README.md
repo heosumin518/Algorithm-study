@@ -1,2 +1,2 @@
 # Algorithm-study
-C, C#, C++, Python, Java, JavaScript
+C/C++, C#

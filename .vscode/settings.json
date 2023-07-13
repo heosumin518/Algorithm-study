@@ -3,6 +3,8 @@
         "23234.C": "cpp",
         "24060.C": "cpp",
         "iostream": "cpp",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "ostream": "cpp",
+        "vector": "cpp"
     }
 }

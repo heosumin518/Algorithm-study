@@ -1,2 +1,2 @@
 # Algorithm-study
-using C, C#, C++
+using C++
